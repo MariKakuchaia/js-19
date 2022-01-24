@@ -1,0 +1,12 @@
+.form-field{
+    margin: 20px;
+}
+input.error{
+    border: 1px solid red;
+}
+.field-error{
+    min-height: 18px;
+}
+.success{
+    border-radius: rgb(108, 221, 108);
+}
